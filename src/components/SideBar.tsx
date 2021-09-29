@@ -3,7 +3,7 @@ import { Button } from './Button';
 import { MovieContext } from '../context/ApiContext';
 
 
-import './styles/sidebar.scss';
+import '../styles/sidebar.scss';
 
 
 export function SideBar() {
